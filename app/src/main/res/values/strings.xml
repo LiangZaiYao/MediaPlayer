@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string-array name="songlist">
+        <item>Eminem - Not Afraid_audio</item>
+        <item>The Internet Millionaires\' Club</item>
+        <item>You\'re Never Over</item>
+        <item>不要认为自己没有用</item>
+        <item>对面的女孩看过来</item>
+    </string-array>
+</resources>
